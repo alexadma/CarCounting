@@ -10,11 +10,11 @@ menggunakan **YOLOv12 + ByteTrack tracker**.
 
 ---
 
-## 📸 Demo
+[## 📸 Demo
 
 > Sistem mendeteksi kendaraan dari CCTV tol secara realtime,  
 > menghitung kendaraan yang melewati garis virtual di 2 jalur berbeda.
-
+](https://youtu.be/FiZLmGX7uZ8)
 ```
 ← Jalur Kiri  (Sukabumi/Jakarta) — kendaraan menjauh
 → Jalur Kanan (Puncak/Ciawi)    — kendaraan mendekati
